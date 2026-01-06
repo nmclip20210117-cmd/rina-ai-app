@@ -1,0 +1,8 @@
+{
+  "name": "Rina AI",
+  "description": "Chat with Rina, your customizable AI partner.",
+  "requestFramePermissions": [
+    "microphone",
+    "screen-wake-lock"
+  ]
+}
