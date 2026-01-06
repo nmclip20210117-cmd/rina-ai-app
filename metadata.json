@@ -3,6 +3,7 @@
   "description": "Chat with Rina, your customizable AI partner.",
   "requestFramePermissions": [
     "microphone",
+    "geolocation",
     "screen-wake-lock"
   ]
 }
